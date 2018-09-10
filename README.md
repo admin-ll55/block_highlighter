@@ -2,7 +2,7 @@
 A data pack that highlights all target blocks within range in Minecraft 1.13.1.
 
 # Usage
-Get the magic sticks:
+Get the highlighters:
 https://github.com/admin-ll55/block_highlighter/wiki/Getting-started
 
 Define the target blocks:
