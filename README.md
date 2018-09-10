@@ -1,5 +1,5 @@
 # Block Highlighter
-Highlight all target blocks within range by holding a block highlighter.
+Highlight all target blocks within range (r=16) by holding a block highlighter.
 
 # Usage
 Get the highlighters:
