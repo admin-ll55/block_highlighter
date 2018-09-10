@@ -1,5 +1,5 @@
 # Block Highlighter
-A data pack that highlights blocks in Minecraft 1.13.1.
+A data pack that highlights all target blocks within range in Minecraft 1.13.1.
 
 # Usage
 Get the magic sticks:
