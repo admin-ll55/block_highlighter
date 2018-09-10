@@ -1,11 +1,11 @@
 # Block Highlighter
-A data pack that highlights pre-defined blocks in Minecraft 1.13.1.
+A data pack that highlights blocks in Minecraft 1.13.1.
 
 # Usage
 Get the magic sticks:
 https://github.com/admin-ll55/block_highlighter/wiki/Getting-started
 
-Edit the target blocks:
+Define the target blocks:
 https://github.com/admin-ll55/block_highlighter/wiki/Highlight-the-blocks-you-want
 
 # Caution & Disclaimer
