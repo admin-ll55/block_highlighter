@@ -1,5 +1,5 @@
 # Block Highlighter
-A data pack that highlights all target blocks within range in Minecraft 1.13.1.
+Highlight all target blocks within range by holding a block highlighter.
 
 # Usage
 Get the highlighters:
