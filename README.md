@@ -10,4 +10,5 @@ https://github.com/admin-ll55/block_highlighter/wiki/Highlight-the-blocks-you-wa
 
 # Caution & Disclaimer
 The data pack is for experimental use only.
+
 I am not respondsible for any damage it may cause.
