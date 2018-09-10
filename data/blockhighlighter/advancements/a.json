@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": ""
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "cc": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "cc"
+        ]
+    ],
+    "rewards": {
+        "function": "blockhighlighter:a"
+    }
+}
