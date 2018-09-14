@@ -16,4 +16,5 @@ execute if entity @s[nbt={SelectedItem: {id:"minecraft:stick", tag: {display: {N
 execute if entity @s[nbt={SelectedItem: {id:"minecraft:stick", tag: {display: {Name:"{\"text\":\"Remove Highlight Set 7\"}"}}}}] run execute as @e[tag=highlighteds7] run data merge entity @s {Health:0,DeathTime:19}
 execute if entity @s[nbt={SelectedItem: {id:"minecraft:stick", tag: {display: {Name:"{\"text\":\"Block Highlighter Set 8\"}"}}}}] at @s run function blockhighlighter:s8/b
 execute if entity @s[nbt={SelectedItem: {id:"minecraft:stick", tag: {display: {Name:"{\"text\":\"Remove Highlight Set 8\"}"}}}}] run execute as @e[tag=highlighteds8] run data merge entity @s {Health:0,DeathTime:19}
+execute if entity @s[nbt={SelectedItem: {id:"minecraft:stick", tag: {display: {Name:"{\"text\":\"Reset Block Highlighter\"}"}}}}] at @s run function blockhighlighter:reset
 advancement revoke @s only blockhighlighter:a
